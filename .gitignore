@@ -1,0 +1,15 @@
+# personal data - created by FSTT on first run
+config.toml
+config.v1-backup.toml
+config.tmp
+state.json
+state.tmp
+fstt.log
+fsw.log
+fstt-schedule-*
+fsw-schedule-*
+
+# python
+__pycache__/
+*.pyc
+.venv/
